@@ -10,3 +10,7 @@ nav{
     justify-content: space-between;
     padding: 10px;
 }
+ul{
+    display: flex;
+    justify-content: space-between;
+}
