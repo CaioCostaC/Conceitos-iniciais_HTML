@@ -27,3 +27,7 @@ ul li a{
 h1{
     font-size: 32px;
 }
+img{
+    border: 3px solid rgb(12,194, 218);
+    width: 50%;
+}
