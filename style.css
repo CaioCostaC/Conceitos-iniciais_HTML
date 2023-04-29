@@ -4,12 +4,16 @@ body {
     text-align : center;
     color: #fff;
     background: #333;
+    padding: 0;
+    margin: 0;
 }
 nav{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    border-bottom: #666;
 }
 ul{
     display: flex;
+    list-style: none;
 }
