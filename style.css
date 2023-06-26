@@ -42,44 +42,6 @@ footer{
 
 
 
-.container {
-  display: flex;
-}
-
-.container {
-
-  flex-direction: row; /* ou column */
-}
-
-.item {
-  order: 2; /* altera a ordem dos itens */
-}
-
-
-.container {
-  justify-content: center; /* alinha os itens horizontalmente ao centro */
-  align-items: flex-start; /* alinha os itens verticalmente ao início */
-}
-
-
-.item {
-  align-self: flex-end; /* alinha um item individualmente no final */
-}
-
-
-.container {
-  flex-wrap: wrap; /* permite que os itens quebrem em várias linhas */
-}
-
-
-.item {
-  flex-grow: 1; /* permite que os itens cresçam igualmente */
-  flex-basis: 200px; /* tamanho inicial dos itens */
-}
-
-
-
-
 
 
 
